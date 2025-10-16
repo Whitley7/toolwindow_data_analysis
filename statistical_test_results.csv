@@ -1,0 +1,4 @@
+test,statistic,p_value,significant,effect_size
+Mann-Whitney U,"156,860",3.6990e-55,True,0.467 (medium)
+Welch t-test,-5.3395,1.0702e-07,True,0.246 (small)
+Bootstrap Median CI,"[148.4, 232.2]",N/A,True,N/A

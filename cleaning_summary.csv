@@ -1,0 +1,5 @@
+dataset,total_sessions,manual_sessions,auto_sessions
+all,1656,647,1009
+complete,1622,634,988
+clean,1574,612,962
+no_outliers,1583,616,967
